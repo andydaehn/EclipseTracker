@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Eclipse Tracker</string>
+    <string name="welcome_text">North American Eclipse</string>
+    <string name="welcome_text_date">August 21, 2017</string>
+    <string name="live_feed">Live Feed</string>
+    <string name="map">Map</string>
+    <string name="camera">Camera</string>
+    <string name="info">Info</string>
+    <string name="social">Social</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">Stream Video</string>
+    <string name="btn_play_pause"/>
+    <string name="eclipse_viewing">The only safe way to look directly at the uneclipsed
+    or partially eclipsed Sun is through special-purpose solar filters, such as
+    “eclipse glasses” or handheld solar viewers. Homemade filters or ordinary
+    sunglasses, even very dark ones, are not safe for looking at the Sun.</string>
+    <string name="how_one">Always inspect your solar filter before use; if scratched or damaged, discard it. Read and follow any instructions printed on or packaged with the filter. Always supervise children using solar filters.</string>
+    <string name="how_two">Stand still and cover your eyes with your eclipse glasses or solar viewer before looking up at the bright Sun. After glancing at the Sun, turn away and remove your filter — do not remove it while looking at the Sun.</string>
+    <string name="how_three">Do not look at the uneclipsed or partially eclipsed Sun through an unfiltered camera, telescope, binoculars, or other optical device. Similarly, do not look at the Sun through a camera, a telescope, binoculars, or any other optical device while using your eclipse glasses or handheld solar viewer — the concentrated solar rays will damage the filter and enter your eye(s), causing serious injury. Seek expert advice from an astronomer before using a solar filter with a camera, a telescope, binoculars, or any other optical device.</string>
+    <string name="how_four">If you are within the path of totality, remove your solar filter only when the Moon completely covers the Sun’s bright face and it suddenly gets quite dark. Experience totality, then, as soon as the bright Sun begins to reappear, replace your solar viewer to glance at the remaining partial phases.</string>
+
+
+
+
+</resources>

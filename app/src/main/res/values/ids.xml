@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_camera" type="id">Camera</item>
+    <item name="action_map" type="id">Map</item>
+    <item name="action_info" type="id">Info</item>
+    <item name="action_social" type="id">Social</item>
+    <item name="action_feed" type="id">Live Feed</item>
+    <item name="MyButton" type="id">Button</item>
+    <item name="btn_play_pause" type="id">Play</item>
+    <item name="myVideo" type="id" />
+</resources>

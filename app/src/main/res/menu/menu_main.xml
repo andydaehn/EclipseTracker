@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_feed"
+        android:icon="@color/colorPrimary"
+        android:title="@string/live_feed" />
+
+    <item android:id="@+id/action_map"
+        android:icon="@color/colorPrimary"
+        android:title="@string/map" />
+
+    <item android:id="@+id/action_camera"
+        android:icon="@color/colorPrimary"
+        android:title="@string/camera" />
+
+    <item android:id="@+id/action_info"
+        android:icon="@color/colorPrimary"
+        android:title="@string/info" />
+
+
+
+</menu>
