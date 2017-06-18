@@ -55,6 +55,12 @@ public class EclipseFeed extends AppCompatActivity implements SurfaceHolder.Call
 
         switch (item.getItemId()){
 
+            case R.id.action_home:
+                Intent intentHome = new Intent(this, MainActivity.class);
+
+                startActivity(intentHome);
+                return true;
+
             case R.id.action_camera:
                 Intent intentCamera = new Intent(this, EclipseCamera.class);
 

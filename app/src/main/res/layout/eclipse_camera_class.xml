@@ -6,7 +6,8 @@ android:layout_height="match_parent"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    android:weightSum="10">
+    android:weightSum="10"
+    android:background="@color/mainColor">
 
 
     <ImageView

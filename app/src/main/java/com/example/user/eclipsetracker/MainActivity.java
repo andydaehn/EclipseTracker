@@ -33,6 +33,12 @@ public class MainActivity extends AppCompatActivity {
 
         switch (item.getItemId()){
 
+            case R.id.action_home:
+                Intent intentHome = new Intent(this, MainActivity.class);
+
+                startActivity(intentHome);
+                return true;
+
             case R.id.action_camera:
                 Intent intentCamera = new Intent(this, EclipseCamera.class);
 
